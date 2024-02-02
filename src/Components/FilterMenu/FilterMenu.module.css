@@ -1,0 +1,72 @@
+.container {
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 232px;
+  flex-shrink: 0;
+  margin-right: 20px;
+  height: 250px;
+  position: fixed;
+  left: 28%;
+  top: 90px;
+}
+
+.title {
+  color: #4a4a4a;
+  font-family: "Open Sans";
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 12px; /* 100% */
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+@media (max-width: 2310px) {
+  .container {
+    left: 24%;
+  }
+}
+
+@media (max-width: 2260px) {
+  .container {
+    left: 25%;
+  }
+}
+
+@media (max-width: 2200px) {
+  .container {
+    left: 20%;
+  }
+}
+
+@media (max-width: 1850px) {
+  .container {
+    left: 16%;
+  }
+}
+
+@media (max-width: 1650px) {
+  .container {
+    left: 13%;
+  }
+}
+
+@media (max-width: 1490px) {
+  .container {
+    left: 9%;
+  }
+}
+
+@media (max-width: 1360px) {
+  .container {
+    left: 5%;
+  }
+}
+
+@media (max-width: 1230px) {
+  .container {
+    left: 2%;
+  }
+}

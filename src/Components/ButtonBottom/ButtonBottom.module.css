@@ -1,0 +1,15 @@
+.button-bottom {
+  margin-top: 20px;
+  color: var(--Primary-Colors-White, #fff) !important;
+  text-align: center;
+  font-family: "Open Sans";
+  font-size: 12px !important;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px !important; /* 166.667% */
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  width: 100%;
+  padding: 15px !important;
+  height: auto !important;
+}
